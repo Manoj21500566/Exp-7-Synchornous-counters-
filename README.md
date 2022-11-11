@@ -67,10 +67,11 @@ End the module
 
 
 ### PROGRAM 
-
+/*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Manoj M
 RegisterNumber:  212221240027
+*/
 
 ### COUNTER DOWN:
 ~~~
